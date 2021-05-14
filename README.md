@@ -1,0 +1,2 @@
+# lowich-giveaway
+giveaway script
